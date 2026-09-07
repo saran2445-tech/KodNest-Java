@@ -3,5 +3,7 @@ public class WelcomeToJava {
        //Write your code here
        System.out.println("Welcome to Java ");
        System.out.println("Im in Java Track");
+       System.out.println("finished");
+       
     }
 }
